@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hyper
 
-<!--
-**Incises/Incises** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*she/her*
 
-Here are some ideas to get you started:
+Software engineer, independent researcher and self-taught musician, born in 2000 in [Wuxi](https://en.wikipedia.org/wiki/Wuxi) (China).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ingénieure en informatique, chercheuse indépendante et musicienne autodidacte, née en 2000 à [Wuxi](https://fr.wikipedia.org/wiki/Wuxi) (Chine).
+
+<br><br><br><br>
+
+<h1 align="center">𝄐</h1>
+
+<br><br><br><br>
